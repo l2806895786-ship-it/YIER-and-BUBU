@@ -1,0 +1,6 @@
+{
+  "name": "一二布布：今天也在一起",
+  "description": "治愈系双人互动休闲小游戏 V3.0：与一二和布布度过温馨日常，10种亲密互动动作、7款双人合作小游戏、9大品类换装试衣间与小屋布置！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
